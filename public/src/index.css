@@ -1,0 +1,32 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400;700&family=Baloo+Paaji+2&family=Forum&family=Inconsolata&family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lato&family=Noto+Sans&family=Poppins:ital,wght@1,200&family=Roboto+Mono:wght@400;600&family=Roboto:wght@300&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body,
+button,
+input {
+	font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+	max-height: 100vh;
+	max-width: 100vh;
+	overflow: hidden;
+}
